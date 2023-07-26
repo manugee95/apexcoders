@@ -1,0 +1,46 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.fbcont{
+    margin: 10% 0;
+}
+.logo h1{
+    color: blue;
+    font-weight: 600;
+    font-size: 60px;
+}
+.logo p{
+    font-size: 30px;
+}
+.fblog form{
+    text-align: center;
+    text-transform: capitalize;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 1rem;
+}
+.fblog .btn-primary{
+    width: 100%;
+    text-transform: capitalize;
+}
+.fblog a{
+    text-decoration: none;
+}
+.fblog a:hover{
+    text-decoration: underline;
+}
+.fblog p{
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.fblog span a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
